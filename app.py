@@ -15,7 +15,7 @@ app.secret_key = os.environ.get("SESSION_SECRET", "default_secret_key")
 
 # Google Gemini API setup
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
-genai.configure(api_key='AIzaSyAtZYAqu2WeMZHvBGIHLgz_FS5f5oBCDtg')
+genai.configure(api_key='Enter Your Google API Key')
 
 # Get Gemini model
 generation_config = {
