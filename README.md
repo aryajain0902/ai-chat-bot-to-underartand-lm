@@ -1,4 +1,4 @@
-# Speech-to-Speech LLM Conversational Bot
+# SPEAKAI-LLM-Bot
 
 This is an interactive conversational bot that listens to spoken input, processes it using Google's Gemini AI model, and responds with spoken output. The bot includes interruption capabilities during conversations.
 
